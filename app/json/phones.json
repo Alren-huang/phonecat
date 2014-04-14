@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Nexus S", 
+		"snippet": "Fast Just got faster with Nexus S.", 
+		"age": 4,
+		"id": "nexus-s",
+		"imageUrl": "img/phones/nexus-5.jpg"
+	},{
+		"name": "Motorola Defy with Motoblur", 
+		"snippet": "The Next, Next Generation tablet.", 
+		"age": 1,
+		"id": "motorola-defy-with-motoblur",
+		"imageUrl": "img/phones/motorola-defy-with-motoblur.jpg"
+	},{
+		"name": "MOTOROLA XOOM", 
+		"snippet": "The Next, Next Generation tablet.", 
+		"age": 2,
+		"id": "motorola-xoom",
+		"imageUrl": "img/phones/motorola-xoom.jpg"
+
+	}
+]
